@@ -1,0 +1,12 @@
+Django==2.0.4
+djangorestframework==3.8.0
+pytz==2018.3
+coreapi
+psycopg2
+psycopg2-binary
+django-rest-swagger
+drf-yasg[validation]
+# celery==3.1.25
+# "celery[redis]"
+pandas==0.23.0
+matplotlib==2.2.2
